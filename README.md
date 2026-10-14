@@ -44,4 +44,5 @@ Open `index.html` in a web browser. An internet connection is required to load B
 ![Task 4](screenshots/task4.png)
 
 ## Work Summary
+I implemented five form exercises, starting with basic HTML forms and progressing to responsive Bootstrap forms with client-side validation. I used HTML5 validation attributes and JavaScript to check user input and display feedback.
 
